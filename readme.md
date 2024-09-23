@@ -6,6 +6,6 @@
 | [4. Event-аналитика.](https://github.com/meNefe/DA_projects/blob/master/event_analytics/event_analytics.ipynb)                                              | Исследования поведения пользователей, воронки, конверсия. Оценка результатов А/А/В- тестирования. |
 | [5. Исследование факторов, влияющих на популярность видеоигр.](https://github.com/meNefe/DA_projects/blob/master/game_analytics/game_analytics.ipynb)    | Анализ наиболее популярных жанров и платформ, региональные различия.                              |
 | [6. Анализ вакансий на портале "Работа России".](https://github.com/meNefe/DA_projects/blob/master/labor_market_%20analysis/labor_market.ipynb)                  | Исследование предлагаемых вакансий в ЦФО РФ.                                                      |
-| [7. Анализ маркетинговых метрик приложения.](https://github.com/meNefe/DA_projects/blob/master/marketing_metrics/markeing_metrics.ipynb)                      | Оценка окупаемости рекламы и пердложения по корректировке маркетинговой кампании.                 |
+| [7. Анализ маркетинговых метрик приложения.](https://github.com/meNefe/DA_projects/blob/master/marketing_metrics/markeing_metrics.ipynb)                      | Оценка окупаемости рекламы и предложения по корректировке маркетинговой кампании.                 |
 | [8.  Статистический анализ различий между пользователями сервиса.](https://github.com/meNefe/DA_projects/blob/master/stat_analysis/stat_analysis%20(1).ipynb) | Выявление различий в поведении пользователей с подпиской и без.                                   |
 
